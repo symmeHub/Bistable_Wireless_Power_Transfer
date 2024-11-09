@@ -1,6 +1,6 @@
 ![Bistable_WPT_Logo](https://github.com/user-attachments/assets/a7078e45-85d0-47c3-9dbf-860515d3938f)
 
-###  Projet ANR (ANR-XX-XXX-XXXX)
+###  Projet ANR ONEFOLD-WPT (ANR-23-CE51-0007)
 
 <table>
 <tbody>
@@ -10,7 +10,7 @@
   </tr>
       <tr>
     <td>Financement :</td>
-    <td>XX XXX €</td>
+    <td>198 963 €</td>
   </tr>
    <tr>
     <td>Coordinateurs scientifiques :</td>
